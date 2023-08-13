@@ -10,7 +10,6 @@ import { popper } from '@popperjs/core';
 import { ToastrModule } from 'ngx-toastr';
 import { NgxSpinnerModule } from 'ngx-spinner';
 import { BaseComponent } from './base/base.component';
-
 @NgModule({
     declarations: [AppComponent],
     imports: [
